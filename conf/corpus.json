@@ -1,0 +1,199 @@
+{
+  "generate_dictionary": true,
+  "fulltext_view_enabled": true,
+  "interface_languages": ["en"],
+  "all_language_search_enabled": false,
+  "gloss_search_enabled": true,
+  "ambiguous_analyses": true,
+  "input_format": "json",
+  "debug": false,
+  "media": false,
+  "video": false,
+  "max_context_expand": 10,
+  "max_distance_filter": 200000,
+  "max_docs_retrieve": 9999,
+  "max_words_in_sentence": 40,
+  "query_timeout": 60,
+  "year_sort_enabled": true,
+  "corpus_name": "wakhi_corpus",
+  "citation": "Wakhi corpus.",
+  "viewable_meta": ["title", "filename"],
+  "sentence_meta": [],
+  "search_meta": {
+    "columns": [[{"type": "input_text", "name": "title", "placeholder": "Title"}]],
+    "stat_options": ["title"]
+  },
+  "word_fields":["trans_ru"],
+  "sentence_meta_values": {"speaker_type": ["native", "linguist"]},
+  "languages": ["wakhi", "english"],
+  "lang_props":
+  {
+    "wakhi":
+    {
+      "gloss_shortcuts": {},
+      "gr_fields_order": [],
+      "gloss_selection": {
+        "columns": [
+          [
+            {"type": "header", "value": "Agreement", "tooltip": "Agreement"},
+            {"type": "gloss", "value": "1PL", "tooltip": "1PL"},
+            {"type": "gloss", "value": "1PL.ADD", "tooltip": "1PL.ADD"},
+            {"type": "gloss", "value": "1SG", "tooltip": "1SG"},
+            {"type": "gloss", "value": "2PL", "tooltip": "2PL"},
+            {"type": "gloss", "value": "2SG", "tooltip": "2SG"},
+            {"type": "gloss", "value": "3", "tooltip": "3"},
+            {"type": "gloss", "value": "3PL", "tooltip": "3PL"},
+            {"type": "gloss", "value": "3SG", "tooltip": "3SG"}
+          ],
+          [
+            {"type": "header", "value": "Aspect", "tooltip": "Aspect"},
+            {"type": "gloss", "value": "ATT", "tooltip": "attenuative"},
+            {"type": "gloss", "value": "DISC", "tooltip": "discontinuative"},
+            {"type": "gloss", "value": "ITER1", "tooltip": "iterative (-ə̑l)"},
+            {"type": "gloss", "value": "ITER2", "tooltip": "ITER2 (-edə̈l)"},
+            {"type": "gloss", "value": "ITER3", "tooltip": "ITER3 (-ə̑št)"},
+            {"type": "gloss", "value": "PUN", "tooltip": "punctive"},
+            {"type": "gloss", "value": "SEM", "tooltip": "semelfactive"}
+          ],
+          [
+            {"type": "header", "value": "Cases", "tooltip": "Cases"},
+            {"type": "gloss", "value": "ABL", "tooltip": "ablative"},
+            {"type": "gloss", "value": "ACC", "tooltip": "accusative"},
+            {"type": "gloss", "value": "CAR", "tooltip": "caritive"},
+            {"type": "gloss", "value": "COM", "tooltip": "comitative"},
+            {"type": "gloss", "value": "DAT", "tooltip": "dative"},
+            {"type": "gloss", "value": "DAT.POSS.1SG", "tooltip": "dative first person singular possessive"},
+            {"type": "gloss", "value": "DAT.POSS.2SG", "tooltip": "dative second person singular possessive"},
+            {"type": "gloss", "value": "EL", "tooltip": "elative"},
+            {"type": "gloss", "value": "GEN", "tooltip": "genitive"},
+            {"type": "gloss", "value": "ILL", "tooltip": "illative"},
+            {"type": "gloss", "value": "ILL2", "tooltip": "old (unproductive) illative (-kə̑ / -kə̈)"},
+            {"type": "gloss", "value": "IN", "tooltip": "inessive"},
+            {"type": "gloss", "value": "IN2", "tooltip": "old (unprodactive) inessive (-nə̑ / -nə̈)"},
+            {"type": "gloss", "value": "LAT", "tooltip": "lative"},
+            {"type": "gloss", "value": "LAT2", "tooltip": "old (unproductive) lative (-an / -än)"},
+            {"type": "gloss", "value": "SIM", "tooltip": "similative"}
+          ],
+          [
+            {"type": "header", "value": "Valency derivation", "tooltip": "Valency derivation"},
+            {"type": "gloss", "value": "CAUS2", "tooltip": "causative (-t)"},
+            {"type": "gloss", "value": "CAUS", "tooltip": "causative (-tar)"},
+            {"type": "gloss", "value": "CAUS.DIST", "tooltip": "distant causative"},
+            {"type": "gloss", "value": "DETR1", "tooltip": "detransitivizer (-g)"},
+            {"type": "gloss", "value": "DETR2", "tooltip": "detransitivizer (-n)"},
+            {"type": "gloss", "value": "MED", "tooltip": "mediopassive"}
+          ],
+          [
+            {"type": "header", "value": "Denominal derivation", "tooltip": "Denominal derivation"},
+            {"type": "gloss", "value": "DENOM", "tooltip": "denominal verb (-l)"},
+            {"type": "gloss", "value": "DENOM1", "tooltip": "denominal verb (-ešt)"},
+            {"type": "gloss", "value": "INCH", "tooltip": "inchoative (-em)"},
+            {"type": "gloss", "value": "INCH2", "tooltip": "inchoative (-ang)"},
+            {"type": "gloss", "value": "MAN", "tooltip": "manner verb"}
+          ],
+          [
+            {"type": "header", "value": "Nominal derivation", "tooltip": "Nominal derivation"},
+            {"type": "gloss", "value": "ADV", "tooltip": "adverbializer"},
+            {"type": "gloss", "value": "ATTR", "tooltip": "attributivizer"},
+            {"type": "gloss", "value": "ATTR.MEAS", "tooltip": "quantitative attributivizer"},
+            {"type": "gloss", "value": "DEST", "tooltip": "destination marker"},
+            {"type": "gloss", "value": "FULL", "tooltip": "full form"},
+            {"type": "gloss", "value": "PROP", "tooltip": "proprietive"}
+          ],
+          [
+            {"type": "header", "value": "Negation", "tooltip": "Negation"},
+            {"type": "gloss", "value": "NEG", "tooltip": "negation"},
+            {"type": "gloss", "value": "NEG.ATTR", "tooltip": "negative attributivizer form"},
+            {"type": "gloss", "value": "NEG.CVB", "tooltip": "negative converb"},
+            {"type": "gloss", "value": "NEG.PRET", "tooltip": "negative preterite form"},
+            {"type": "gloss", "value": "NEG.PTCP", "tooltip": "negative participle"}
+          ],
+          [
+            {"type": "header", "value": "Non-finite", "tooltip": "Non-finite"},
+            {"type": "gloss", "value": "CVB", "tooltip": "converb"},
+            {"type": "gloss", "value": "CVB.ANT", "tooltip": "converb with anteriority semantics"},
+            {"type": "gloss", "value": "CVB.LIM", "tooltip": "converb with restrictive sequence semantics"},
+            {"type": "gloss", "value": "CVB.SIM", "tooltip": "converb with simultaneity semantics"},
+            {"type": "gloss", "value": "INF", "tooltip": "infinitive"},
+            {"type": "gloss", "value": "NACT", "tooltip": "deverbal noun"},
+            {"type": "gloss", "value": "NAG", "tooltip": "agent noun"},
+            {"type": "gloss", "value": "NMLZ", "tooltip": "nominalization (-mə̑ / -mə̈ / -m)"},
+            {"type": "gloss", "value": "NMLZ2", "tooltip": "nominalization (-maš / -mäš)"},
+            {"type": "gloss", "value": "NMLZ2.ILL", "tooltip": "illative form of NMLZ2"},
+            {"type": "gloss", "value": "NMLZ2.IN", "tooltip": "inessive form of NMLZ2"},
+            {"type": "gloss", "value": "PTCP.ACT", "tooltip": "active participle"},
+            {"type": "gloss", "value": "PTCP.PASS", "tooltip": "passive participle"},
+            {"type": "gloss", "value": "PTCP.PASS/NMLZ", "tooltip": "passive participle/nominalization"}
+          ],
+          [
+            {"type": "header", "value": "Number",  "tooltip": "Number"},
+            {"type": "gloss", "value": "PL", "tooltip": "plural"},
+            {"type": "gloss", "value": "SG", "tooltip": "singular"},
+            {"type": "header", "value": "Numerals"},
+            {"type": "gloss", "value": "AGGR", "tooltip": "aggregative numeral"},
+            {"type": "gloss", "value": "COLL", "tooltip": "collective numeral"},
+            {"type": "gloss", "value": "ORD", "tooltip": "ordinal numeral"}
+          ],
+          [
+            {"type": "header", "value": "Mood",  "tooltip": "Mood"},
+            {"type": "gloss", "value": "DEB", "tooltip": "debitive"},
+            {"type": "gloss", "value": "DES", "tooltip": "desiderative"},
+            {"type": "gloss", "value": "IMP", "tooltip": "imperative"},
+            {"type": "gloss", "value": "IMP.2PL", "tooltip": "imperative second-person plural"},
+            {"type": "gloss", "value": "JUSS", "tooltip": "jussive"},
+            {"type": "gloss", "value": "JUSS.PL", "tooltip": "jussive plural"},
+            {"type": "gloss", "value": "JUSS.SG", "tooltip": "jussive singular"},
+            {"type": "gloss", "value": "OPT", "tooltip": "optative"}
+          ],
+          [
+            {"type": "header", "value": "Particles", "tooltip": "Particles"},
+            {"type": "gloss", "value": "ADD", "tooltip": "additive particle (=at / =ät)"},
+            {"type": "gloss", "value": "ADD2", "tooltip": "additive marker (-ak / -äk)"},
+            {"type": "gloss", "value": "CONTR", "tooltip": "contrastive particle"},
+            {"type": "gloss", "value": "EMPH", "tooltip": "emphatic particle"},
+            {"type": "gloss", "value": "PTCL", "tooltip": "particle"}
+          ],
+          [
+            {"type": "header", "value": "Possessiveness", "tooltip": "Possessiveness"},
+            {"type": "gloss", "value": "POSS", "tooltip": "possessiveness"},
+            {"type": "gloss", "value": "POSS.1PL", "tooltip": "first-person plural possessive"},
+            {"type": "gloss", "value": "POSS.1SG", "tooltip": "first-person singular possessive"},
+            {"type": "gloss", "value": "POSS.2PL", "tooltip": "second-person plural possessive"},
+            {"type": "gloss", "value": "POSS.2SG", "tooltip": "second-person singular possessive"},
+            {"type": "gloss", "value": "POSS.3PL", "tooltip": "third-person plural possessive"},
+            {"type": "gloss", "value": "POSS.3SG", "tooltip": "third-person singular possessive"}
+          ],
+          [
+            {"type": "header", "value": "Tense", "tooltip": "Tense"},
+            {"type": "gloss", "value": "AOR", "tooltip": "aorist (past I)"},
+            {"type": "gloss", "value": "AOR.3PL", "tooltip": "aorist third-person plural"},
+            {"type": "gloss", "value": "AOR.3SG", "tooltip": "aorist third-person singular"},
+            {"type": "gloss", "value": "NPST.1PL", "tooltip": "non-past first-person plural"},
+            {"type": "gloss", "value": "NPST.1SG", "tooltip": "non-past first-person singular"},
+            {"type": "gloss", "value": "NPST.2PL", "tooltip": "non-past second-person plural"},
+            {"type": "gloss", "value": "NPST.2SG", "tooltip": "non-past second-person singular"},
+            {"type": "gloss", "value": "NPST.3PL", "tooltip": "non-past third-person plural"},
+            {"type": "gloss", "value": "NPST.3SG", "tooltip": "non-past third-person singular"},
+            {"type": "gloss", "value": "NPST", "tooltip": "non-past"},
+            {"type": "gloss", "value": "PRET", "tooltip": "preterite (past II)"},
+            {"type": "gloss", "value": "RETR1", "tooltip": "retrospective shift (ə̑l'ə̑)"},
+            {"type": "gloss", "value": "RETR2", "tooltip": "retrospective shift (ə̑lə̑n)"}
+          ],
+          [
+            {"type": "header", "value": "Other tags", "tooltip": "Other tags"},
+            {"type": "gloss", "value": "CMPR", "tooltip": "comparative"},
+            {"type": "gloss", "value": "EX", "tooltip": "existential predicate"},
+            {"type": "gloss", "value": "INDEF", "tooltip": "indefinite pronoun"},
+            {"type": "gloss", "value": "KIN", "tooltip": "special marker for kinship terms"},
+            {"type": "gloss", "value": "POL1", "tooltip": "pre-imperative marker of non-categoricality (=aj / =äj)"},
+            {"type": "gloss", "value": "POL2", "tooltip": "pre-imperative marker of non-categoricality (-ə̑ma / -ə̈mä / -emä)"},
+            {"type": "gloss", "value": "REFL", "tooltip": "reflexive"},
+            {"type": "gloss", "value": "SINCE", "tooltip": "marker with meaning ‘since then’"}
+          ]
+        ]
+      },
+      "gramm_selection": {}
+    }
+  },
+  "elastic_url": "http://127.0.0.1:9200"
+}
