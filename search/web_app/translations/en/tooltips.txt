@@ -1,0 +1,250 @@
+
+	
+&ldquo;Comparative&rdquo;	&ldquo;Comparative&rdquo;
+&ldquo;Domus&rdquo; (personal-local marker)	&ldquo;Domus&rdquo; (personal-local marker)
+-jem	-jem
+-o	-o
+1pl possessive	1pl possessive
+1sg possessive	1sg possessive
+1st	1st
+1st peron (in 2nd past)	1st peron (in 2nd past)
+1st person plural	1st person plural
+1st person singular	1st person singular
+2nd	2nd
+2nd (evidential) past	2nd (evidential) past
+2nd Accusative	2nd Accusative
+2nd Genitive	2nd Genitive
+2nd Locative	2nd Locative
+2nd genitive (Ablative) case	2nd genitive (Ablative) case
+2nd genitive (ablative)	2nd genitive (ablative)
+2nd person plural	2nd person plural
+2nd person singular	2nd person singular
+2pl possessive	2pl possessive
+2sg possessive	2sg possessive
+3pl possessive	3pl possessive
+3rd	3rd
+3rd person plural	3rd person plural
+3rd person singular	3rd person singular
+3sg possessive	3sg possessive
+Abbreviation	Abbreviation
+Accusative	Accusative
+Accusative (plural) case	Accusative (plural) case
+Accusative 1pl possessive	Accusative 1pl possessive
+Accusative 1sg possessive	Accusative 1sg possessive
+Accusative 2pl possessive	Accusative 2pl possessive
+Accusative 2sg possessive	Accusative 2sg possessive
+Accusative 3pl possessive	Accusative 3pl possessive
+Accusative 3sg possessive	Accusative 3sg possessive
+Active	Active
+Active (-išʼ/-əšʼ)	Active (-išʼ/-əšʼ)
+Active negative (-tem)	Active negative (-tem)
+Active participle	Active participle
+Adjectival plural	Adjectival plural
+Adjective	Adjective
+Adjective Pronoun	Adjective Pronoun
+Adnumeral	Adnumeral
+Adverb	Adverb
+Adverbial	Adverbial
+Adverbial Pronoun	Adverbial Pronoun
+Adverbial case	Adverbial case
+Animacy	Animacy
+Animate	Animate
+Anomalous form	Anomalous form
+Any attributivizer	Any attributivizer
+Any converb	Any converb
+Any future marker	Any future marker
+Any participle	Any participle
+Any past marker	Any past marker
+Any person marker	Any person marker
+Any possessive accusative	Any possessive accusative
+Any verbal derivation	Any verbal derivation
+Any&nbsp;case&nbsp;marker	Any&nbsp;case&nbsp;marker
+Any&nbsp;possessive&nbsp;marker	Any&nbsp;possessive&nbsp;marker
+Approximative	Approximative
+Approximative case	Approximative case
+Aspect	Aspect
+Attributivizer	Attributivizer
+Attributivizers	Attributivizers
+Body part	Body part
+Caritive	Caritive
+Caritive case	Caritive case
+Case	Case
+Case compounding	Case compounding
+Causative	Causative
+Collective	Collective
+Collective numeral	Collective numeral
+Common	Common
+Comparative	Comparative
+Comparative 2	Comparative 2
+Conjunction	Conjunction
+Converb in -mon	Converb in -mon
+Converbs	Converbs
+Core cases	Core cases
+Dative	Dative
+Dative case	Dative case
+Debitive	Debitive
+Debitive (-ono)	Debitive (-ono)
+Degree / Adj. form	Degree / Adj. form
+Delimitative (-skən)	Delimitative (-skən)
+Demonstrative pronoun	Demonstrative pronoun
+Detransitive	Detransitive
+Digit	Digit
+Distortion	Distortion
+Distributive numeral	Distributive numeral
+Durative (-onʼnʼa)	Durative (-onʼnʼa)
+Durative converb	Durative converb
+Egressive	Egressive
+Egressive case	Egressive case
+Elative	Elative
+Elative case	Elative case
+Evidential past	Evidential past
+Family name	Family name
+Feminine	Feminine
+Full form	Full form
+Future	Future
+Future (non-fusional)	Future (non-fusional)
+Future 1pl	Future 1pl
+Future 1sg (-i)	Future 1sg (-i)
+Future 1sg (-j)	Future 1sg (-j)
+Future 2pl	Future 2pl
+Future 2sg	Future 2sg
+Future 3pl	Future 3pl
+Future 3sg	Future 3sg
+Future tense	Future tense
+Gender	Gender
+General converb	General converb
+General negative converb	General negative converb
+Genitive	Genitive
+Genitive case	Genitive case
+Gerund	Gerund
+Human	Human
+Ideophone	Ideophone
+Illative	Illative
+Illative case	Illative case
+Imperative	Imperative
+Imperative 2	Imperative 2
+Imperatives	Imperatives
+Imperfective	Imperfective
+Impersonal	Impersonal
+Inanimate	Inanimate
+Indeclinable	Indeclinable
+Indicative	Indicative
+Infinitive	Infinitive
+Initial Letter	Initial Letter
+Inransitive	Inransitive
+Instrumental	Instrumental
+Instrumental case	Instrumental case
+Interjection	Interjection
+Intransitive	Intransitive
+Iterative	Iterative
+Last name	Last name
+Lexical classes	Lexical classes
+Limitative (-čʼožʼ)	Limitative (-čʼožʼ)
+Limitative converb	Limitative converb
+Loanwords	Loanwords
+Locative	Locative
+Locative case	Locative case
+Locative noun (-nʼig)	Locative noun (-nʼig)
+Marked accusative case	Marked accusative case
+Masculine	Masculine
+Middle	Middle
+Mood / Verb form	Mood / Verb form
+Name	Name
+Negative (-tek)	Negative (-tek)
+Negative (-tem)	Negative (-tem)
+Negative active participle	Negative active participle
+Negative attributivizer	Negative attributivizer
+Negative passive participle	Negative passive participle
+Neuter	Neuter
+Nomen loci (-onʼnʼig)	Nomen loci (-onʼnʼig)
+Nominal plural	Nominal plural
+Nominative	Nominative
+Nominative (or unmarked accusative)	Nominative (or unmarked accusative)
+Nominative case	Nominative case
+Non-finite forms	Non-finite forms
+Noun	Noun
+Number	Number
+Numeral	Numeral
+Numeral Adjective	Numeral Adjective
+Numerals	Numerals
+Oblinative (-ešʼ)	Oblinative (-ešʼ)
+Oblique stem	Oblique stem
+Ordinal	Ordinal
+Ordinal numeral	Ordinal numeral
+Other features	Other features
+Participle	Participle
+Particle	Particle
+Parts of speech	Parts of speech
+Passive	Passive
+Passive negative (-mte)	Passive negative (-mte)
+Past	Past
+Past (non-fusional)	Past (non-fusional)
+Past 1pl	Past 1pl
+Past 1sg (-i)	Past 1sg (-i)
+Past 1sg (-j)	Past 1sg (-j)
+Past 2pl	Past 2pl
+Past 2sg	Past 2sg
+Past 3pl	Past 3pl
+Past 3sg	Past 3sg
+Past participle	Past participle
+Past participle (-em)	Past participle (-em)
+Past tense	Past tense
+Patronymic	Patronymic
+Perfective	Perfective
+Period (-skən)	Period (-skən)
+Person	Person
+Personal name	Personal name
+Personal pronoun	Personal pronoun
+Place name	Place name
+Plural	Plural
+Possessiveness	Possessiveness
+Postposition	Postposition
+Predicative	Predicative
+Predicative Pronoun	Predicative Pronoun
+Preposition	Preposition
+Present	Present
+Present 1pl	Present 1pl
+Present 1sg	Present 1sg
+Present 2pl	Present 2pl
+Present 2sg	Present 2sg
+Present 3pl	Present 3pl
+Present 3sg	Present 3sg
+Present tense	Present tense
+Prolative	Prolative
+Prolative case	Prolative case
+Pronoun	Pronoun
+Pronoun types	Pronoun types
+Proper names	Proper names
+Recessive	Recessive
+Recessive case	Recessive case
+Reflexive pronoun	Reflexive pronoun
+Relational adjective	Relational adjective
+Relational noun	Relational noun
+Resultative	Resultative
+Resultative (-mən)	Resultative (-mən)
+Russian borrowing	Russian borrowing
+Short form	Short form
+Simultaneous (-ku)	Simultaneous (-ku)
+Singular	Singular
+Spatial cases	Spatial cases
+Subjunctive	Subjunctive
+Substantive Pronoun	Substantive Pronoun
+Superlative	Superlative
+Supernatural	Supernatural
+Tense	Tense
+Tense/Mood	Tense/Mood
+Terminative	Terminative
+Terminative case	Terminative case
+Time period (-oj)	Time period (-oj)
+Toponymic	Toponymic
+Transitive	Transitive
+Transitivity	Transitivity
+Transport	Transport
+Verb	Verb
+Verbal derivation	Verbal derivation
+Verbal noun (-on)	Verbal noun (-on)
+Vocative	Vocative
+Voice	Voice
+Word in dictionary	Word in dictionary
+Word not in dictionary	Word not in dictionary
+Zoonym	Zoonym
